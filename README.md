@@ -5,18 +5,6 @@ Hi, I'm Julian Darou–Santos, an 11th-grade student and aspiring software devel
 
 ## Featured Projects  
 
-### **SimpleScript**  
-A lightweight scripting language with features including:  
-- **Lexical Analysis, Parsing, and Interpretation:** Supports variables, pointers, arrays, functions, and control structures.  
-- **Plugins & GUI:** Extend functionality and provide a user-friendly scripting interface.  
-- **Testing & Profiling:** Basic unit testing and performance insights.  
-
----
-
-### **Accounting Number Munchers (WIP)**  
-An interactive educational game designed to simplify accounting concepts and make learning engaging for students.  
-
----
 
 ## Skills  
 - **Languages:** Python, JavaScript, Lua, C++  
